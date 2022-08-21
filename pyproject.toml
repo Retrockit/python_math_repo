@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "python_math_repo"
+version = "0.1.0"
+description = ""
+authors = ["Franklin J Lee <40707294+Retrockit@users.noreply.github.com>"]
+license = "Apache-2.0"
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
