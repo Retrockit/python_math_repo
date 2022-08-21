@@ -4,10 +4,13 @@ version = "0.1.0"
 description = ""
 authors = ["Franklin J Lee <40707294+Retrockit@users.noreply.github.com>"]
 license = "Apache-2.0"
+readme = "README.md"
 
 
 [tool.poetry.dependencies]
 python = "^3.10"
+jupyter = "^1.0.0"
+numpy = "^1.23.2"
 
 [tool.poetry.dev-dependencies]
 
